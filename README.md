@@ -1,2 +1,4 @@
 # AV-SM
  It is a Python program that simulates the flight control system. The code provides a GUI (Graphical User Interface) using the PyQt5 library and also simulates various systems and sensor data. It includes flight control system, navigation system, communication system, power management system, security system and other systems.  The code contains a set of classes that update sensor data with random values, pass AI checks, handle error management and maintenance systems, and display flight data on the GUI. There is also a class in the main part of the code that creates and runs the Avionics Mission Computer.
+
+This code neatly displays the avionics mission computer's data through a GUI. Real world applications will be more complex, but this example is a good start to understanding the basic concepts and operation.
